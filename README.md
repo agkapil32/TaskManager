@@ -9,7 +9,7 @@
 ---
 
 <!-- Architecture diagram --> (more of a rough before to start the project)
-![Task Manager – high-level view](docs/Design.png)
+![Task Manager – high-level view](docs/Design.PNG)
 
 
 # Architecture Overview (based on shared design)
