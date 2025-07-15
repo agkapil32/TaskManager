@@ -8,7 +8,7 @@
 
 ---
 
-<!-- Architecture diagram --> (more of a rough before to start the project)
+<!-- Architecture diagram --> (more of a rough work which i did before to starting the project)
 ![Task Manager – high-level view](docs/Design.PNG)
 
 
